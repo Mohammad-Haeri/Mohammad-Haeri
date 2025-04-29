@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on .Net Backend Developing
 
 
-## 🌐📱 Where you can fine me:
+## 🌐📱 Where you can find me:
 [My Personal Web Page](Https://www.Mohammad-Haeri.ir)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-haeri/)
