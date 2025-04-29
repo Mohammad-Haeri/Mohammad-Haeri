@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Mohammad-Haeri. A software enginner.
+- 👋 Hi, I’m [Mohammad-Haeri](https://www.Mohammad-Haeri.ir). A software enginner.
 - 👀 I’m interested in .Net,  DevOps, Algorithms Implementation & AI
 - 🌱 I’m currently learning DevOps
-//- 💞️ I’m looking to collaborate on .Net Backend Developing
+- 💞️ I’m looking to collaborate on .Net Backend Developing
 
 
-## 🌐 Socials & Portfolio:
-Https://www.Mohammad-Haeri.ir
+## 🌐 Socials:
+[My Personal Web Page](Https://www.Mohammad-Haeri.ir)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-haeri/)
 
